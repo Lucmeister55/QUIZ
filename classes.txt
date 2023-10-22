@@ -1,13 +1,38 @@
-Stef: Fighter 
-Seppe: Sorcerer Locathah
-Laura: Monk
-Emma vhs: Bard
-Mona: Barbarian
-Elise: Ranger
-Merel: Ranger
-Margot: Rogue
-Laurianne: Druid Shadar-Kai
-Tom: Cleric 
-Maurits: Artificer
-Lisa: Paladin Sea Elf
-Flor: Wizard Satyr
+Classes:
+Fighter
+Rogue
+Wizard
+Cleric
+Bard
+
+FIGHTERS
+Stef
+Elise
+Lisa Sea Elf
+
+WIZARDS
+Flor
+Maurits
+Laurianne Shadar-Kai
+
+CLERICS
+Tom
+Merel
+
+BARDS
+Emma vhs
+Seppe Locathah
+Mona
+
+ROGUES
+Laura
+Margot
+Hannah
+
+Character abilities are applicable to all rounds, except the games round and final boss (not including the fighter).
+
+Fighter: Second Wind - Cheat death once throughout the whole game, unless you were last place in that round
+Bard: Bardic Inspiration - Get the first letter of the answer (if charades, for the last one)
+Cleric: Speak with dead - Someone dead from their party can answer as well, and if one of them is correct, its a success (if charades, for the last one the dead player can look at the word and mime it for the others)
+Wizard: Arcane Recovery - Receive a hint, or other help (if charades, for the last one)
+Rogue: Uncanny Dodge - Take a 0 instead of -1 when losing a point
