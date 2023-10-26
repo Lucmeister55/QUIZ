@@ -6,28 +6,44 @@ Cleric
 Bard
 
 FIGHTERS
-Stef
-Elise
-Lisa Sea Elf
+Stef vh x
+Fien x
+Aster x
+Elise x
+Emma vdv x
+Nils
 
 WIZARDS
-Flor
-Laurianne Shadar-Kai
+Flor x
+Laurianne x
+Gilles x
+Jasper x
+Emma vhs x
+Victor 
 
 CLERICS
-Tom
-Merel
-Maurits
+Tom x
+Merel x
+Maurits x
+Eline
+Lies x
+Remi x
 
 BARDS
-Emma vhs
-Seppe Locathah
-Mona
+Seppe
+Roxanne x
+Mona x
+Axelle x
+Bartel x
+Emile x
 
 ROGUES
-Laura
-Margot
-Hannah
+Laura x
+Margot x
+Hannah x
+Jo-Anna x
+Noa x
+Stef vsb x
 
 Character abilities are applicable to all rounds, except the games round and final boss (not including the fighter).
 
