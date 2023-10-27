@@ -19,7 +19,7 @@ Laurianne x
 Gilles x
 Jasper x
 Emma vhs x
-Victor 
+Victor
 
 CLERICS
 Tom x
@@ -28,6 +28,7 @@ Maurits x
 Eline
 Lies x
 Remi x
+Karen x
 
 BARDS
 Seppe
